@@ -1,8 +1,8 @@
 ### Shreyas Prasad
 
-Hi! I'm Shreyas, a Computer Science student at the University of Waterloo interested in distributed systems and cryptography. I'm currently working with a team of students at Loolabs to improve the student experience.
+Hi! I'm Shreyas, a Computer Science student at the University of Waterloo interested in distributed systems, real-time software, and cryptography. I'm currently working with a team of students at Loolabs to improve the student experience. Right now, I'm exploring the world of open-source. 
 
-I'm seeking Winter 2022 internships, let's get in touch!
+Seeking Winter 2022 internships, let's get in touch!
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ShreyasPrasad.ShreyasPrasad)
 <!--
