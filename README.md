@@ -1,6 +1,6 @@
 ### Shreyas Prasad
 
-Hi! I'm Shreyas, a Computer Science student at the University of Waterloo interested in distributed systems, real-time software, and cryptography. I'm currently exploring distributed messaging systems and reading the rust book. I'm also exploring the world of open-source. 
+Hi! I'm Shreyas, a Computer Science student at the University of Waterloo interested in distributed systems, real-time software, and cryptography. I'm currently working on [Codemafia](https://github.com/ShreyasPrasad/codemafia), a real-time browser game built using full-stack Rust!
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ShreyasPrasad.ShreyasPrasad)
 <!--
