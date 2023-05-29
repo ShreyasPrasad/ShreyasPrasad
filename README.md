@@ -2,7 +2,7 @@
 
 Hi! I'm Shreyas, a Computer Science student at the University of Waterloo interested in distributed systems, real-time software, and cryptography. I'm currently working on [Codemafia](https://github.com/ShreyasPrasad/codemafia), a real-time browser game built using full-stack Rust!
 
-I am currently seeking new-grad 2023 opportunities! Reach out at s49krish at uwaterloo dot ca
+I am currently seeking new-grad 2023 opportunities! Reach out at **s49krish at uwaterloo dot ca**
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ShreyasPrasad.ShreyasPrasad)
 <!--
