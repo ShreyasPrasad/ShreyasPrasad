@@ -1,8 +1,6 @@
 ### Shreyas Prasad
 
-Hi! I'm Shreyas, a recent Computer Science graduate from the University of Waterloo interested in distributed systems, operating systems, and real-time software.
-
-I am currently seeking new-grad 2023/24 opportunities!
+Hi! I'm Shreyas, a recent Computer Science graduate from the University of Waterloo interested in distributed systems, operating systems, and real-time software. I'm currently working on task scheduling services @AWS.
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ShreyasPrasad.ShreyasPrasad)
 <!--
